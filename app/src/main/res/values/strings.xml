@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brofessor</string>
+    <string name="welcome_message">Welcome to Brofessor!</string>
+    <string name="instructions">Click the button to get your new bro name</string>
+    <string name="button">Bro Me</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
